@@ -1,0 +1,18 @@
+{
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/resources_js_Pages_Auth_ConfirmPassword_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_ConfirmPassword_jsx.js",
+  "assets/resources_js_Pages_Auth_ForgotPassword_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_ForgotPassword_jsx.js",
+  "assets/resources_js_Pages_Auth_Login_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_Login_jsx.js",
+  "assets/resources_js_Pages_Auth_Register_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_Register_jsx.js",
+  "assets/resources_js_Pages_Auth_ResetPassword_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_ResetPassword_jsx.js",
+  "assets/resources_js_Pages_Auth_VerifyEmail_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Auth_VerifyEmail_jsx.js",
+  "assets/resources_js_Pages_Dashboard_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Dashboard_jsx.js",
+  "assets/resources_js_Pages_Profile_Edit_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Profile_Edit_jsx.js",
+  "assets/resources_js_Pages_Profile_Partials_DeleteUserForm_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Profile_Partials_DeleteUserForm_jsx.js",
+  "assets/resources_js_Pages_Profile_Partials_UpdatePasswordForm_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Profile_Partials_UpdatePasswordForm_jsx.js",
+  "assets/resources_js_Pages_Profile_Partials_UpdateProfileInformationForm_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Profile_Partials_UpdateProfileInformationForm_jsx.js",
+  "assets/resources_js_Pages_Welcome_jsx.js": "http://localhost:8080/assets/resources_js_Pages_Welcome_jsx.js",
+  "assets/vendors-node_modules_headlessui_react_dist_components_transitions_transition_js.js": "http://localhost:8080/assets/vendors-node_modules_headlessui_react_dist_components_transitions_transition_js.js",
+  "assets/resources_js_Layouts_AuthenticatedLayout_jsx.js": "http://localhost:8080/assets/resources_js_Layouts_AuthenticatedLayout_jsx.js"
+}

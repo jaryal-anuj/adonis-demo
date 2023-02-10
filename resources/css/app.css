@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components{
+   .topnav{
+      @apply bg-zinc-900 overflow-hidden
+   }
+
+   .topnav a {
+      @apply text-center float-left text-neutral-50 px-3.5 py-4
+   
+  }
+} */
